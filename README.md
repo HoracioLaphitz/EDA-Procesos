@@ -13,3 +13,8 @@ flowchart LR
   A["EDA_Automatizado.ipynb"] --> B["Procesamiento de EDA-Procesos"]
   B --> C["Resultados del proyecto"]
 ```
+
+## Tecnologías
+
+- Python
+- Jupyter Notebook
